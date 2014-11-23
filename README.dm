@@ -8,6 +8,7 @@ This clean data
 4. has summarized each measurement's mean value of each activity and each subject.
 
 run with command:
-analysis(directory)
-where directory is the root directory (i.e. the directory with README.txt) of the data to be cleaned.
+analysis()
+where working directory as the root directory (i.e. the directory with README.txt) of the data to be cleaned.
 
+Clean data will be output to "tidy_data.txt"
